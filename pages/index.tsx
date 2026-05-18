@@ -4,7 +4,6 @@ import { Container } from 'reactstrap';
 import Head from 'next/head';
 import { NextSeo } from 'next-seo';
 import { Education } from '../component/education';
-import { Etc } from '../component/etc';
 import { Experience } from '../component/experience';
 import { Footer } from '../component/footer';
 import { Introduce } from '../component/introduce';
