@@ -5,13 +5,13 @@ const education: IEducation.Payload = {
 
   list: [
     {
-      title: 'University of Paichai',
+      title: 'University of Pai Chai',
       subTitle: 'Computer Engineering',
       startedAt: '2020-03',
       // endedAt: '2027-02',
     },
     {
-      title: 'Dongsan High School',
+      title: 'Daejeon Dongsan High School',
       subTitle: 'Graduated',
       startedAt: '2017-03',
       endedAt: '2020-02',
